@@ -6,6 +6,11 @@ body, html {
 	text-align: center;
 }
 
+body{ /*general style rules for the body section */
+	background-color: lightblue;
+	text-align: center;
+}
+
 img {
    max-width:100%;
    height:auto;
