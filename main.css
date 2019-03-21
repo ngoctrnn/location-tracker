@@ -3,10 +3,23 @@
 body, html {
 	height: 100%;
 	width: 100%;
+	text-align: center;
 }
 
 img {
    max-width:100%;
    height:auto;
    max-height:100%;
+}
+
+div2 {
+	text-align: left;
+}
+
+div3 {
+	text-align: center;
+}
+
+div4 {
+	text-align: right;
 }
