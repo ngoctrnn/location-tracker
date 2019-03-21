@@ -9,6 +9,7 @@ body, html {
 body{ /*general style rules for the body section */
 	background-color: lightblue;
 	text-align: center;
+	color: white;
 }
 
 img {
@@ -19,12 +20,15 @@ img {
 
 #div2 {
 	text-align: left;
+	color: black;
 }
 
 #div3 {
 	text-align: right;
+	color: black;
 }
 
 #div4 {
 	text-align: bottom;
+	color: black;
 }
