@@ -23,19 +23,22 @@ img {
 	text-align: left;
 	color: white;
 	font:32;
-	height:20%
+	height:100px;
+	width:100px;
 }
 
 #div4 {
 	text-align: bottom;
 	color: white;
 	font:32;
-	height:20%
+	height:100px;
+	width:100px;
 }
 
 #div5 {
 	text-align: right;
 	color: white;
 	font: 32;
-	height:20%
+	height:100px;
+	width:100px;
 }
