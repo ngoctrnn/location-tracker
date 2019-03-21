@@ -8,5 +8,6 @@ body, html {
 #div3{
 	background-color: white
 	margin: 5%;
-	width: 50%;
+	height: auto;
+	width: auto;
 }
