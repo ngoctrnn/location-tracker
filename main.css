@@ -10,7 +10,7 @@ body{ /*general style rules for the body section */
 	background-color: lightblue;
 	text-align: center;
 	color: white;
-	font: 24;
+	font: 50;
 }
 
 img {
@@ -22,17 +22,17 @@ img {
 #div2 {
 	text-align: left;
 	color: white;
-	font:14;
+	font:32;
 }
 
 #div4 {
 	text-align: bottom;
 	color: white;
-	font:14;
+	font:32;
 }
 
 #div5 {
 	text-align: right;
 	color: white;
-	font: 14;
+	font: 32;
 }
