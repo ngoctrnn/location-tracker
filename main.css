@@ -22,14 +22,18 @@ img {
 #div2 {
 	text-align: left;
 	color: white;
-}
-
-#div3 {
-	text-align: right;
-	color: white;
+	font:14;
 }
 
 #div4 {
 	text-align: bottom;
 	color: white;
+	font:14;
+}
+
+#div5{
+	text-align: right;
+	color: white;
+	font: 14;
+
 }
